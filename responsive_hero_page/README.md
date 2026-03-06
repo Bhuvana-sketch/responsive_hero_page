@@ -1,0 +1,1 @@
+# responsive_hero_page
